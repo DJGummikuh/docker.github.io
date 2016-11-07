@@ -104,7 +104,7 @@ $ docker network inspect bridge
            "Driver": "default",
            "Config": [
                {
-                   "Subnet": "172.17.0.1/16",
+                   "Subnet": "172.17.0.0/16",
                    "Gateway": "172.17.0.1"
                }
            ]
